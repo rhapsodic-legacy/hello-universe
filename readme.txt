@@ -1,1 +1,3 @@
 Bonjour!
+Hello! 
+Hi!
