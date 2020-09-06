@@ -1,3 +1,4 @@
+#Just some text.
 print("This is the first line.")
 
 print("And this is the second line.")
